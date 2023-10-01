@@ -6,7 +6,7 @@
  arms_factory_plural:0 "Военные заводы"
  arms_factory_desc:0 "Это сооружение снабжает регион новой военной техникой. При необходимости его можно превратить в завод по выпуску мирной продукции."
  dockyard:0 "Верфь"
- dockyard_plural:0 "Верфи"
+ dockyard_plural:0 "Верфии"
  dockyard_desc:0 "Это сооружение снабжает регион новыми кораблями."
  industrial_complex:0 "Фабрика"
  industrial_complex_plural:0 "Фабрики"
