@@ -1,0 +1,51 @@
+TP TODO:
+
+BST:
+up/down
+change original positions
+bulilding adding
+enabling
+variables
+
+window 2 stuff
+offsite
+
+x State marker: controlled states
+x-x Select all states of same region
+x ICT: enable/disable elections
+- Add fuel silo, offmap, building slots to BST
+- Supervised states for CPT
+- Fix RMT?
+x DST A: 10 width divisions, more options; especially tanks
+x Research Tool expansion
+- Retire Country Leader
+- Leader Ideology
+- Demilitarized territory to show marked states
+- State category to PMT
+- Focus tree tool
+- KR version of ICT
+- TP for all languages
+- Border Gore Tool
+	( Discord id: 307880116715913217
+	
+		With multiple selected states, and multiple selected countries:
+
+		For each state in the set of selected states:
+		    Pick a random country from the set of selected countries
+		    Set the owner of the current state to the randomly picked country
+		
+		1) Select multiple states
+		2) Select multiple countries
+		3) Press the "Just fuck my shit up fam" button to activate the tool
+		4) Alternatively, press the "Reset selection" to deselect all states and countries
+	)
+
+	air force tool?
+	fix mst?
+	Add feature to undo ship transfers #only possible for leaders, not for units
+
+Translators:
+Russian: Dimitrus - finished translation for March 3.
+Finnish: That finnish guy (that's actually his name) - no contributions yet
+German: Deutsches Kaiserreich 1871 - working on March 3.
+Portuguese: Edward Vostok Dimitri - working on previous versions

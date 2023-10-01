@@ -1,0 +1,29 @@
+###########################
+# Austria events 
+###########################
+
+add_namespace = Austria
+
+country_event = {
+	id = austria.1
+	title = china.1.t
+	desc = china.1.d
+	picture = GFX_report_event_manchukuo_army_2
+	
+	is_triggered_only = yes
+	
+	option = { 
+		name = Kill Kurt
+		ai_chance = { factor = 90 }
+        add_political_power = 150
+	}
+	option = { 
+		name = No kill Kurt
+		ai_chance = { factor = 10 }
+       
+		add_stability
+		
+		}
+	}
+
+

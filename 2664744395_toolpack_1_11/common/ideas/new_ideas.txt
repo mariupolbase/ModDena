@@ -1,0 +1,92 @@
+ideas = {
+
+	country = {
+		gret_depin = {
+			picture = usa_great_depression_3
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				political_power_cost = 1
+				consumer_goods_factor = 0.3
+				conscription_factor = -0.5
+				join_faction_tension = 0.20
+				local_resources_factor = -0.2
+			}
+		}
+    }
+		country = {
+			persia_obval = {
+				picture = usa_great_depression_1
+				
+				allowed = {
+					always = no
+				}
+	
+				allowed_civil_war = {
+					always = yes
+				}
+	
+				removal_cost = -1
+				
+				modifier = {
+					consumer_goods_factor = 0.5
+					production_speed_buildings_factor = -0.5
+					local_resources_factor = -0.1
+				}
+			}
+		}
+		country = {
+			 Persia_Skoro = {
+				picture = usa_great_depression_1
+				
+				allowed = {
+					always = no
+				}
+	
+				allowed_civil_war = {
+					always = yes
+				}
+	
+				removal_cost = -1
+				
+				modifier = {
+					consumer_goods_factor = 0.5
+					production_speed_buildings_factor = -0.5
+					local_resources_factor = -0.1
+				}
+			}
+		}
+		 Persia_army = { #ARMY - org
+
+			allowed = {
+				original_tag = TUR
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			picture = tur_disorganised_armed_forces
+				
+			removal_cost = -1
+				
+			modifier = {
+				war_support_factor = -0.15
+				army_speed_factor = -0.1
+				training_time_factor = 0.25
+				naval_coordination = -0.15
+				air_accidents_factor = 0.15
+				minimum_training_level = -0.1
+			}
+		}
+}
+

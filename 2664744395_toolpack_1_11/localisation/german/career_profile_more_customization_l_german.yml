@@ -1,0 +1,229 @@
+﻿l_german:
+# Career Profile
+ CAREER_PROFILE_INCOMPATIBLE_PLATFORM_MS:1 "Es sind nur andere Microsoft-Account-Spieler zu sehen"
+ CAREER_PROFILE_INCOMPATIBLE_PLATFORM_STEAM:1 "Es sind nur andere Steam-Spieler zu sehen"
+ CAREER_PROFILE_INCOMPATIBLE_PLATFORM_GENERIC:0 "Sie können das Profil anderer Spieler auf dieser Plattform nicht einsehen"
+
+# Statistics Tab
+ CAREER_PROFILE_COMPARE_STATS_LABEL:0 "Mit eigener Statistik vergleichen"
+ CAREER_PROFILE_DROPDOWN_ALL_MODES:0 "Alle Modi"
+ CAREER_PROFILE_DROPDOWN_SINGLE_PLAYER:0 "Einzelspieler"
+ CAREER_PROFILE_DROPDOWN_MULTIPLAYER:0 "Mehrspieler"
+
+ CAREER_PROFILE_COMPARE_STATS_VALUE_TOOLTIP:0 "Wir haben: $VALUE$\nDifferenz: $DIFFERENCE$"
+ CAREER_PROFILE_COMPARE_HOURS:0 "$VALUE|Y*$ Stunden"
+ CAREER_PROFILE_COMPARE_DAYS:0 "$VALUE|Y*$ Tage"
+ CAREER_PROFILE_COMPARE_MONTHS:0 "$VALUE|Y*$ Monate"
+ CAREER_PROFILE_COMPARE_YEARS:0 "$VALUE|Y*$ Jahre"
+ CAREER_PROFILE_COMPARE_HOURS_DIFFERENCE:0 "$VALUE|=+*$ Stunden"
+ CAREER_PROFILE_COMPARE_DAYS_DIFFERENCE:0 "$VALUE|=+*$ Tage"
+ CAREER_PROFILE_COMPARE_MONTHS_DIFFERENCE:0 "$VALUE|=+*$ Monate"
+ CAREER_PROFILE_COMPARE_YEARS_DIFFERENCE:0 "$VALUE|=+*$ Jahre"
+ CAREER_PROFILE_COMPARE_STATS_VALUE_POSITIVE_TOOLTIP:0 "Wir haben: $VALUE|Y*$\nDifferenz: $DIFFERENCE|=+*$"
+ CAREER_PROFILE_COMPARE_STATS_VALUE_POSITIVE_TOOLTIP_NO_SI_PREFIX:0 "Wir haben: $VALUE|Y$\nDifferenz: $DIFFERENCE|=+$"
+ CAREER_PROFILE_COMPARE_STATS_VALUE_NEGATIVE_TOOLTIP:0 "Wir haben: $VALUE|Y*$\nDifferenz: $DIFFERENCE|=-*$"
+ CAREER_PROFILE_COMPARE_STATS_VALUE_PERCENTAGE_TOOLTIP:0 "Wir haben: $VALUE|Y1%$\nDifferenz: $DIFFERENCE|=+1%$"
+
+ CAREER_PROFILE_STAT_PLAIN_NUMBER:0 "$VALUE|*$"
+ CAREER_PROFILE_STAT_PLAIN_NUMBER_NO_SI_PREFIX:0 "$VALUE$"
+ CAREER_PROFILE_STAT_PLAIN_NUMBER_NO_SI_PREFIX_MORE_THAN:0 ">$VALUE|*$"
+ CAREER_PROFILE_STAT_PERCENTAGE:0 "$VALUE|1%$"
+
+ CAREER_PROFILE_BEFORE_1940:0 "Vor 1940"
+ CAREER_PROFILE_1940_TO_1944:0 "1940 – 1944"
+ CAREER_PROFILE_1945_AND_LATER:0 "1945 oder später"
+
+# Awards tab
+ CAREER_PROFILE_PRODUCTION_IS_POWER_BRONZE:0 "§H50§! Fabriken"
+ CAREER_PROFILE_PRODUCTION_IS_POWER_SILVER:0 "§H250§! Fabriken"
+ CAREER_PROFILE_PRODUCTION_IS_POWER_GOLD:0 "§H500§! Fabriken"
+ CAREER_PROFILE_QUALITY_OVER_QUANTITY_BRONZE:0 "Verhältnis §H1,5:1§!"
+ CAREER_PROFILE_QUALITY_OVER_QUANTITY_SILVER:0 "Verhältnis §H3:1§!"
+ CAREER_PROFILE_QUALITY_OVER_QUANTITY_GOLD:0 "Verhältnis §H5:1§!"
+
+# Profile Picture Tab
+ CAREER_PROFILE_BADGE_TAB_LABEL:0 "Abzeichen"
+ CAREER_PROFILE_TOOLTIP_BACKGROUND_UNLOCKED:0 "Als Profilhintergrund nutzen"
+ CAREER_PROFILE_TOOLTIP_BACKGROUND_LOCKED:0 "§b.§!\n\n\n£$ICON$£\n\n\n\n\n§b.§!\n$REQUIREMENT$" # The black . prevent the newlines from being trimmed
+ CAREER_PROFILE_PICTURES:0 "Profilbilder"
+ CAREER_PROFILE_BACKGROUNDS:0 "Profilhintergründe"
+
+# Award Display
+ CAREER_PROFILE_EMPTY_MEDAL_SLOT_TOOLTIP:0 "Kein Orden zugewiesen."
+ CAREER_PROFILE_EMPTY_MEDAL_SLOT_BUTTON_TOOLTIP:0 "Kein Orden zugewiesen.\n\nKlicken, um einen Orden auszuwählen, der hier ausgestellt werden soll."
+ CAREER_PROFILE_EMPTY_MEDAL_PICKER_ITEM_TITLE:0 "Kein Orden"
+ CAREER_PROFILE_EMPTY_MEDAL_PICKER_ITEM_DESCRIPTION:0 "Entfernt den ausgewählten Orden."
+
+ CAREER_PROFILE_EMPTY_RIBBON_SLOT_TOOLTIP:0 "Keine Bandschnalle zugewiesen."
+ CAREER_PROFILE_EMPTY_RIBBON_SLOT_BUTTON_TOOLTIP:0 "Keine Bandschnalle zugewiesen.\n\nKlicken, um eine Bandschnalle auszuwählen, die hier ausgestellt werden soll."
+ CAREER_PROFILE_EMPTY_RIBBON_PICKER_ITEM_TITLE:0 "Keine Bandschnalle"
+ CAREER_PROFILE_EMPTY_RIBBON_PICKER_ITEM_DESCRIPTION:0 "Entfernt die ausgewählte Bandschnalle."
+
+# Log in
+ LOGIN_DESCRIPTION_FRIENDS_BOLD:0 "Melden Sie sich mit Ihrem Paradox-Konto an, um die Statistiken Ihrer Freunde zu sehen"
+ LOGIN_DESCRIPTION_CUSTOMIZATION_BOLD:0 "Melden Sie sich mit Ihrem Paradox-Konto an, um Ihr Profil anzupassen"
+
+ CAREER_PROFILE_WRONG_ACCOUNT_POPUP_HEADER:0 "Falsches PDX-Konto?"
+ CAREER_PROFILE_WRONG_ACCOUNT_POPUP_MESSAGE:0 "Sie haben sich mit einem anderen Konto als gewöhnlich angemeldet.\nIhre Daten, Statistiken und Auszeichnungen können nicht verfolgt werden"
+
+ CAREER_PROFILE_CLOUD_STORAGE_NOT_AVAILABLE_POPUP_HEADER:0 "Speicherung in der Cloud nicht verfügbar"
+ CAREER_PROFILE_CLOUD_STORAGE_NOT_AVAILABLE_POPUP_MESSAGE:0 "Ihre Daten, Statistiken und Auszeichnungen werden nicht in die Cloud geladen.\n Prüfen Sie Ihre Steam-Cloud-Einstellungen."
+
+# Privacy switcher
+ CAREER_PROFILE_SWITCHER_PUBLIC:0 "Öffentlich"
+ CAREER_PROFILE_SWITCHER_PRIVATE:0 "Privat"
+ CAREER_PROFILE_SWITCHER_FRIENDS:0 "Freunde"
+ CAREER_PROFILE_VISIBILITY:0 "Profilsichtbarkeit"
+
+# Chat
+ CHAT_ERROR_UNKNOWNSLASH:0 "Unbekannter Befehl. Geben Sie „/help“ oder „/?“ ein, um alle verfügbaren Befehle zu sehen"
+ CHAT_ERROR_UNKNOWNCHANNELUSER:0 "Der Spieler „$NAME$“ konnte im derzeitigen Kanal nicht gefunden werden"
+ CHAT_SLAP:0 "$FIRST$ stößt $SECOND$ mit einer kleinen Atombombe durch den Raum"
+ CHAT_ERROR_SLAP_MISSINGARG:0 "Ungültige Syntax. Erwartet: /slap <Benutzername>"
+ CHAT_ERROR_ME_MISSINGARG:0 "Ungültige Syntax. Erwartet: /me <Nachricht>"
+ CHAT_ERROR_CREATE_MISSINGARG:0 "Ungültige Syntax. Erwartet: /create <Kanalname>"
+ CHAT_ERROR_INVITE_MISSINGARG:0 "Ungültige Syntax. Erwartet: /invite <Benutzername>"
+ CHAT_ERROR_INVITE_NOTOPERATOR:0 "Nur der Kanalersteller kann andere Spieler einladen"
+ CHAT_ERROR_INVITE_ALREADYTHERE:0 "Der Spieler ist bereits im Kanal"
+ CHAT_ERROR_KICK_MISSINGARG:0 "Ungültige Syntax. Erwartet: /kick <Benutzername>"
+ CHAT_ERROR_KICK_NOTOPERATOR:0 "Nur der Kanalersteller kann Spieler rauswerfen"
+ CHAT_ERROR_KICK_NOTTHERE:0 "Der Spieler ist nicht im Kanal"
+ CHAT_ERROR_WHISPER_MISSINGARG:0 "Ungültige Syntax. Erwartet: /whisper <Benutzername> <Nachricht>"
+ CHAT_ERROR_REPLY_MISSINGARG:0 "Ungültige Syntax. Erwartet: /reply <Nachricht>"
+ CHAT_ERROR_REPLY_MISSINGUSER:0 "Es gibt keinen verbundenen Spieler, dem geantwortet werden könnte"
+ CHAT_ROLL:0 "$USER$ wirft einen $DIE$-seitigen Würfel. Computer sagt „$NUMBER$“"
+ CHAT_YES:0 "Ja" # Used as $NUMBER$ in CHAT_ROLL if $DIE$ is 2
+ CHAT_NO:0 "Nein" # Used as $NUMBER$ in CHAT_ROLL if $DIE$ is 2
+ CHAT_BETWEEN_X_AND_Y:0 "Chat zwischen $X$ und $Y$"
+ CHAT_YOUWEREBANNED:0 "Sie wurden von $OP$ aus dem Kanal „$CHANNEL$“ geworfen"
+
+ # Medals
+ CAREER_PROFILE_MODERN_VERDUN:0 "Moderne Schlacht um Verdun"
+ CAREER_PROFILE_MODERN_VERDUN_DESCRIPTION:0 "Lassen Sie eine Schlacht eine gewisse Anzahl an Tagen ohne Unterbrechung laufen."
+ CAREER_PROFILE_NEVERMINE_ME_MEDAL:0 "Minenteppich"
+ CAREER_PROFILE_NEVERMINE_ME_MEDAL_DESCRIPTION:1 "Erhalten Sie durch Minen mehr als 50% Seeherrschaft in einer bestimmten Anzahl von Seezonen."
+ CAREER_PROFILE_QUALITY_OVER_QUANTITY:0 "Qualität vor Quantität"
+ CAREER_PROFILE_QUALITY_OVER_QUANTITY_DESCRIPTION:0 "Haben Sie eine vorteilhafte Verlustquote nach der Verursachung min. 1 Million feindlicher Verluste."
+ CAREER_PROFILE_BRAINS_AND_BRUTE_FORCE_MEDAL:0 "Köpfchen und brachiale Gewalt"
+ CAREER_PROFILE_BRAINS_AND_BRUTE_FORCE_MEDAL_DESCRIPTION:0 "Entschlüsseln Sie eine gewisse Anzahl an Chiffren."
+ CAREER_PROFILE_I_AM_INEVITABLE:0 "Ich bin unvermeidlich"
+ CAREER_PROFILE_I_AM_INEVITABLE_DESCRIPTION:0 "Erhalten Sie für eine bestimmte Anzahl an Wochen pro Woche mindestens 1 Provinz."
+ CAREER_PROFILE_FINESSE_IS_FASTER:0 "Raffinesse ist schneller"
+ CAREER_PROFILE_FINESSE_IS_FASTER_DESCRIPTION:0 "Sorgen Sie bei der Entschlüsselung einer Chiffre mit dem Einsatz „Chiffre erobern“ dafür, dass mehr als eine bestimmte Anzahl von Tagen von der Entschlüsselungsdauer entfernt wird."
+ CAREER_PROFILE_CARGO_EMBARGO:0 "Fracht-Embargo"
+ CAREER_PROFILE_CARGO_EMBARGO_DESCRIPTION:0 "Verhängen Sie gegen eine bestimmte Anzahl von Nationen ein Embargo."
+ CAREER_PROFILE_PRODUCTION_IS_POWER:0 "Produktion ist Macht"
+ CAREER_PROFILE_PRODUCTION_IS_POWER_DESCRIPTION:0 "Bauen Sie eine bestimmte Anzahl neuer Zivil- oder Militärfabriken."
+ CAREER_PROFILE_ENGINEERING_BEHEMOTH_MEDAL:0 "Entworfener Behemoth"
+ CAREER_PROFILE_ENGINEERING_BEHEMOTH_MEDAL_DESCRIPTION:1 "Entwerfen Sie einen Panzer, der eine bestimmte Panzerwertung hat, und setzen Sie davon mindestens 1.000 im Feld ein."
+ CAREER_PROFILE_CASTLES_IN_THE_AIR_MEDAL:0 "Luftschlösser"
+ CAREER_PROFILE_CASTLES_IN_THE_AIR_MEDAL_DESCRIPTION:1 "Entwerfen Sie ein Flugzeug, das eine bestimmte Panzerwertung hat, und setzen Sie davon mindestens ein volles Geschwader (100 Flugzeuge) im Feld ein."
+
+ # Ribbons
+ CAREER_PROFILE_SYNTHETIC_SECURITY:0 "Synthetische Sicherheit"
+ CAREER_PROFILE_SYNTHETIC_SECURITY_DESCRIPTION:0 "Erhalten Sie über 30 Einheiten Gummi aus künstlichen Quellen (Synthetische Raffinerien)."
+ CAREER_PROFILE_SYNTHETIC_SECURITY_QUOTE:0 "„Wenn die Frauen in den Fabriken ihre Arbeit für 20 Minuten unterbrächen, verlören die Alliierten den Krieg.“\n\n- Französischer Feldmarschall und Oberbefehlshaber Joseph Joffre, 1. Weltkrieg"
+ CAREER_PROFILE_RUBBER_BARON:0 "Gummi-Baron"
+ CAREER_PROFILE_RUBBER_BARON_DESCRIPTION:0 "Kontrollieren Sie mindestens 1.000 Einheiten Gummi mit einer geschlossenen Wirtschaft."
+ CAREER_PROFILE_RUBBER_BARON_QUOTE:0 "„... die Eroberung der wichtigsten Kautschukproduktionsgebiete im Fernen Osten im Jahr 1942 vernichtete die Quellen von 90 Prozent der weltweiten Naturkautschukproduktion.“\n\n- The Southern Economic Journal, Januar 1947"
+ CAREER_PROFILE_THE_TRUCK_WILL_ALWAYS_GET_THROUGH:0 "Der LKW kommt immer durch"
+ CAREER_PROFILE_THE_TRUCK_WILL_ALWAYS_GET_THROUGH_DESCRIPTION:0 "Besitzen Sie über 5.000 Nachschub-LKWs, die Armeen versorgen."
+ CAREER_PROFILE_THE_TRUCK_WILL_ALWAYS_GET_THROUGH_QUOTE:0 "„Sie sagten, die Bomber kämen immer durch, doch da waren die LKWs schon lange da.“\n\n- Unbekannt"
+ CAREER_PROFILE_MARE_NOSTRUM:0 "Mare Nostrum"
+ CAREER_PROFILE_MARE_NOSTRUM_DESCRIPTION:0 "Erlangen Sie in den 6 Hauptseezonen des Mittelmeers die Seeherrschaft (mindestens eine angefochten)."
+ CAREER_PROFILE_MARE_NOSTRUM_QUOTE:0 "„Als ich mein Gewehr verlor, verlangte die Armee 85 Dollar von mir. Aus diesem Grund geht bei der Marine der Kapitän mit seinem Schiff unter.“\n\n- Dick Gregory"
+ CAREER_PROFILE_BLITZ_THIS:0 "Blitz das ..."
+ CAREER_PROFILE_BLITZ_THIS_DESCRIPTION:0 "Wählen Sie „Elastische Verteidigung“ als bevorzugte Strategie (General, Feldmarschall oder Nation)."
+ CAREER_PROFILE_BLITZ_THIS_QUOTE:0 "„Zieht die Linien zurück wie ein Bogenschütze, der seinen Bogen spannt, und lasst sie dann los.“\n\n- Unbekannt"
+ CAREER_PROFILE_SCORCHED_EARTH:0 "Verbrannte Erde"
+ CAREER_PROFILE_SCORCHED_EARTH_DESCRIPTION:0 "Sprengen Sie Eisenbahnen mit „Verbrannte Erde“, um den feindlichen Vormarsch zu verlangsamen."
+ CAREER_PROFILE_SCORCHED_EARTH_QUOTE:0 "„... dem Feind darf keine einzige Lokomotive, kein einziger Eisenbahnwaggon, kein einziges Pfund Getreide und keine Gallone Treibstoff gelassen werden.“\n\n- Josef Stalin, Rundfunkansprache, 3. Juli 1941"
+ CAREER_PROFILE_RULED_BY_FURNITURE:0 "Von Möbeln regiert!"
+ CAREER_PROFILE_RULED_BY_FURNITURE_DESCRIPTION:0 "Haben Sie keine einzelne Person oder Gruppe von Personen, die für Ihr Land verantwortlich ist."
+ CAREER_PROFILE_RULED_BY_FURNITURE_QUOTE:0 "„Sich Sorgen zu machen, ist wie ein Schaukelstuhl. Man ist zwar beschäftigt, aber man kommt nicht voran.“\n\n- Altes Sprichwort"
+ CAREER_PROFILE_THE_THOUSAND_YEAR_BOND:0 "Der Tausendjährige Pakt"
+ CAREER_PROFILE_THE_THOUSAND_YEAR_BOND_DESCRIPTION:0 "Setzen Sie einhundert Kavallerie- oder Kamelreiter-Bataillone ein."
+ CAREER_PROFILE_THE_THOUSAND_YEAR_BOND_QUOTE:0 "„Ein Pferd muss ein bisschen verrückt sein, um ein gutes Kavalleriepferd abzugeben, und sein Reiter muss es auch sein.“\n\n- Steven Pressfield"
+ CAREER_PROFILE_ROCKETS_REIGN:0 "Raketenregierung"
+ CAREER_PROFILE_ROCKETS_REIGN_DESCRIPTION:0 "Bauen Sie mehr als 10 Raketenbasen."
+ CAREER_PROFILE_ROCKETS_REIGN_QUOTE:0 "„Die Rakete funktionierte perfekt, außer dass sie auf dem falschen Planeten landete.“\n\n- Wernher von Braun"
+ CAREER_PROFILE_STEEL_AT_HIGH_SPEED:0 "Hochgeschwindigkeitsstahl"
+ CAREER_PROFILE_STEEL_AT_HIGH_SPEED_DESCRIPTION:0 "Setzen Sie mehr als 4.000 Panzer mit einer Höchstgeschwindigkeit von mehr als 12 km/h ein."
+ CAREER_PROFILE_STEEL_AT_HIGH_SPEED_QUOTE:0 "„Wenn alles unter Kontrolle zu sein scheint, ist man nicht schnell genug.“\n\n- Mario Andretti"
+ CAREER_PROFILE_ORCHESTRA_OF_BOOM:0 "Orchestraler Bums"
+ CAREER_PROFILE_ORCHESTRA_OF_BOOM_DESCRIPTION:0 "Setzen Sie ein Bataillon aus min. 1 Einheit Flugabwehr, Artillerie, Raketenartillerie und Panzerabwehr ein (unterstützt von Fernmeldekompanie)."
+ CAREER_PROFILE_ORCHESTRA_OF_BOOM_QUOTE:0 "\n„Ein wahres Crescendo von Klängen, die so kontinuierlich sind, dass sie in ein einziges, alles andere auslöschendes Brüllen übergehen, das Brüllen eines Zugs in einem Tunnel, millionenfach verstärkt.“\n\n- Arnold D. Harvey"
+
+ # Statistics
+ CAREER_PROFILE_AIRSPACE_SUPERIORITY_RATING_LABEL:0 "Angefochtene Luftüberlegenheitswertung"
+ CAREER_PROFILE_CIVILIAN_FACTORIES_BUILT_LABEL:0 "Gebaute Zivilfabriken"
+ CAREER_PROFILE_MILITARY_FACTORIES_BUILT_LABEL:0 "Gebaute Militärfabriken"
+ CAREER_PROFILE_DOCKYARDS_BUILT_LABEL:0 "Gebaute Schiffswerften"
+ CAREER_PROFILE_ROCKET_SITES_BUILT_LABEL:0 "Gebaute Raketenbasen"
+ CAREER_PROFILE_LAND_DOCTRINE:0 "Meistgenutzte Landdoktrin"
+ CAREER_PROFILE_MOBILE_WARFARE_XP_LABEL:0 "Mobile Kriegsführung"
+ CAREER_PROFILE_SUPERIOR_FIREPOWER_XP_LABEL:0 "Feuerüberlegenheit"
+ CAREER_PROFILE_GRAND_BATTLEPLAN_XP_LABEL:0 "Großer Schlachtplan"
+ CAREER_PROFILE_MASS_ASSAULT_XP_LABEL:0 "Massenangriff"
+ CAREER_PROFILE_NAVAL_DOCTRINE:0 "Meistgenutzte Marinedoktrin"
+ CAREER_PROFILE_FLEET_IN_BEING_XP_LABEL:0 "Präsenzflotte"
+ CAREER_PROFILE_TRADE_INTERDICTION_XP_LABEL:0 "Handelskrieg"
+ CAREER_PROFILE_BASE_STRIKE_XP_LABEL:0 "Stützpunktangriff"
+ CAREER_PROFILE_AIR_DOCTRINE:0 "Meistgenutzte Luftdoktrin"
+ CAREER_PROFILE_STRATEGIC_DESTRUCTION_XP_LABEL:0 "Strategische Zerstörung"
+ CAREER_PROFILE_BATTLEFIELD_SUPPORT_XP_LABEL:0 "Schlachtfeldunterstützung"
+ CAREER_PROFILE_OPERATIONAL_INTEGRITY_XP_LABEL:0 "Operative Integrität"
+ CAREER_PROFILE_MOST_USED_COMBAT_WIDTH_LABEL:0 "Meistgenutzte Gefechtsbreite"
+
+ CAREER_PROFILE_MILITARY_PRODUCTION:0 "Militärproduktion"
+ CAREER_PROFILE_MILITARY_PRODUCTION_OTHER_LABEL:0 "Waffen und Ausrüstung"
+ CAREER_PROFILE_MILITARY_PRODUCTION_LAND_VEHICLES_LABEL:1 "Landfahrzeuge"
+ CAREER_PROFILE_MILITARY_PRODUCTION_AIRCRAFT_LABEL:0 "Flugzeuge"
+
+ CAREER_PROFILE_AIR_PRODUCTION:0 "Flugzeugproduktion"
+ CAREER_PROFILE_FIGHTER_LABEL:0 "Jäger"
+ CAREER_PROFILE_CAS_LABEL:0 "Luftnahunterstützung"
+ CAREER_PROFILE_TACTICAL_BOMBER_LABEL:0 "Taktische Bomber"
+ CAREER_PROFILE_NAVAL_BOMBER_LABEL:0 "Marinebomber"
+ CAREER_PROFILE_STRATEGIC_BOMBER_LABEL:0 "Strategische Bomber"
+ CAREER_PROFILE_OTHER_LABEL:0 "Sonstige"
+
+ CAREER_PROFILE_TANK_PRODUCTION:0 "Panzerproduktion"
+ CAREER_PROFILE_LIGHT_TANK_LABEL:0 "Leichte Panzer"
+ CAREER_PROFILE_MEDIUM_TANK_LABEL:0 "Mittlere Panzer"
+ CAREER_PROFILE_HEAVY_TANK_LABEL:0 "Schwere Panzer"
+ CAREER_PROFILE_SUPER_HEAVY_TANK_LABEL:1 "Überschwere Panzer"
+ CAREER_PROFILE_MODERN_TANK_LABEL:0 "Moderne Panzer"
+
+ CAREER_PROFILE_NAVAL_PRODUCTION:0 "Schiffsproduktion"
+ CAREER_PROFILE_SUBMARINE_LABEL:0 "U-Boote"
+ CAREER_PROFILE_SCREENING_LABEL:0 "Schutzschiffe"
+ CAREER_PROFILE_CAPITAL_SHIP_LABEL:0 "Schwere Kreuzer und Schlachtschiffe"
+ CAREER_PROFILE_CARRIERS_LABEL:0 "Flugzeugträger"
+
+# Tooltips
+ CAREER_PROFILE_TRIGGER_DEPLOYED_TANKS_WITH_ARMOR_RATING:0 "$VALUE|0H$ Panzer mit $TOOLTIP_VALUE|0H$ Panzerwertung"
+ CAREER_PROFILE_TRIGGER_DEPLOYED_AIRPLANES_WITH_AIR_DEFENSE:0 "$VALUE|0H$ Flugzeuge mit $TOOLTIP_VALUE|0H$ Luftverteidigung"
+ CAREER_PROFILE_TRIGGER_MINED_SEA_REGIONS:0 "$VALUE|0H$ Meeresregionen"
+ CAREER_PROFILE_TRIGGER_DECRYPTED_CIPHERS:0 "$VALUE|0H$ Chiffren"
+ CAREER_PROFILE_TRIGGER_NATIONS:0 "$VALUE|0H$ Nationen"
+ CAREER_PROFILE_TRIGGER_DAYS:0 "$VALUE|0H$ Tage"
+ CAREER_PROFILE_TRIGGER_PROVINCE_GAINING_WEEKS:0 "$VALUE|0H$ Wochen"
+ CAREER_PROFILE_TRIGGER_DECRYPTING_DAYS_SAVED:0 "$VALUE|0H$ Tage gespart"
+
+# Backup Flavor Texts
+ CAREER_PROFILE_BACKUP_QUOTE_31:0 "„... viele von uns dachten, dass wir noch nie ein willkommeneres Geräusch gehört hatten als jenes tiefe Tosen und Krachen, das da von hinten kam.“\n\n- Fritz Kreisler"
+ CAREER_PROFILE_BACKUP_QUOTE_32:0 "„Das Gesetz? Was kümmert mich das Gesetz? Habe nicht ich die Macht?“\n\n- Cornelius Vanderbilt"
+
+# Batch 2
+ CAREER_PROFILE_GAME_TIME_LABEL:0 "Zeit im Spiel"
+
+ CAREER_PROFILE_STAT_YEARS_MONTHS:0 "$YEARS$ Jahre, $MONTHS$ Monate"
+ CAREER_PROFILE_STAT_YEARS_MONTHS_MORE:0 "$YEARS$ Jahre, $MONTHS$ Monate mehr"
+ CAREER_PROFILE_STAT_YEARS_MONTHS_LESS:0 "$YEARS$ Jahre, $MONTHS$ Monate weniger"
+
+# Countries
+# Countries in Profile Picture Tab, original loc key in comment
+ CAREER_PROFILE_COUNTRY_ETH:0 "Äthiopien" # ETH_neutrality
+ CAREER_PROFILE_COUNTRY_ITA:0 "Italien" # ITA_fascism
+ CAREER_PROFILE_COUNTRY_SWI:0 "Schweiz" # SWI_democratic

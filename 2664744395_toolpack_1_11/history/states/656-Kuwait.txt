@@ -1,0 +1,36 @@
+state={
+	id=656
+	name="STATE_656"
+	manpower = 80000
+	resources={
+     oil=44
+	}
+
+	state_category = town
+	
+	history={
+		add_core_of = KUW
+		owner = PER
+		victory_points = {
+			8085 1 
+		}
+		buildings = {
+			infrastructure = 3
+			8085 = {
+				naval_base = 6
+			}
+		}
+
+		1936.1.1.1 = { 
+			if = {
+				limit = { has_dlc = "Battle for the Bosporus" }
+				set_demilitarized_zone = yes
+			}
+		}
+	}
+	provinces={
+		8085
+	}
+
+	local_supplies=0.0 
+}

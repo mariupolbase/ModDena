@@ -1,0 +1,140 @@
+Update 25.2.19
+
+Manpower Spawning Tool (MST) localisation
+One line (first line in the file) of text added to TPT localisation
+Added MST event (nr. 5) text in TP localisation
+DST event text (events 2 and 3 in _toolpack file) changed slightly
+
+Update 3.3.19
+Resource Managing Tool (RMT) localisation
+Added two lines to Ship Spawning Tool (SST) localisation (navy experience)Update 25.2.19
+Manpower Spawning Tool (MST) localisation
+One line (first line in the file) of text added to TPT localisation
+Added MST event (nr. 5) text in TP localisation
+DST event text (events 2 and 3 in _toolpack file) changed slightly
+
+
+Update 3.3.19
+Resource Managing Tool (RMT) localisation
+Added two lines to Ship Spawning Tool (SST) localisation (navy experience)
+
+
+11.3.19 (not released)
+
+Removed/Replaced:
+TPT_COUNTRY_TEXT:0 "Country"
+TPT_DIPLOMACY_TEXT:0 "Diplomacy"
+TPT_WAR_TEXT:0 "War"
+TPT_FACTION_TEXT:0 "Faction"
+
+New:
+TPT_CLOSE_WINDOW:0 "Close"
+
+TPT_CW_ENFASCIST:0 "Rebelling faction will be §Yfascist§W ."
+TPT_CW_ENCOMMUNIST:0 "Rebelling faction will be §Rcommunist§W ."
+TPT_CW_ENDEMOCRATIC:0 "Rebelling faction will be §Bdemocratic§W ."
+TPT_CW_ENNEUTRAL:0 "Rebelling faction will be §Gneutral§W ."
+
+TPT_IDEOLOGY_TEXT:0 "Ideology"
+TPT_DIPLOMACY_TEXT:0 "Diplomacy"
+TPT_STANCE_TEXT:0 "Stance"
+TPT_COUNTRY_TEXT:0 "Country"
+
+TPT_MAKE_FACTION_LEADER_TT:0 "§HMake this country the leader of its faction§!"
+
+TPT_MARK_IDEOLOGY_TT:0 "§HMark all countries with the same ideology§!"
+
+tp_fascist_nation:0 "Fascist Nation"
+tp_fascism_banned:0 "Fascism Banned"
+tp_communist_nation:0 "Communist Nation"
+tp_communism_banned:0 "Communism Banned"
+tp_democratic_nation:0 "Democratic Nation"
+tp_democratic_banned:0 "Democratic Parties Banned"
+tp_neutral_nation:0 "Non-aligned Nation"
+tp_neutrality_banned:0 "Neutral Parties Banned"
+TPT_ADD_FASCIST_IDEA_TT:0 "§HAdd a national spirit that keeps the nation §!fascist"
+TPT_BAN_FASCIST_IDEA_TT:0 "§HAdd a national spirit that removes §!fascism§H from the nation§!"
+TPT_ADD_COMMUNIST_IDEA_TT:0 "§HAdd a national spirit that keeps the nation §!communist"
+TPT_BAN_COMMUNIST_IDEA_TT:0 "§HAdd a national spirit that removes §!communism§H from the nation§!"
+TPT_ADD_DEMOCRATIC_IDEA_TT:0 "§HAdd a national spirit that keeps the nation §!democratic"
+TPT_BAN_DEMOCRATIC_IDEA_TT:0 "§HAdd a national spirit that removes §!democratic influence§H from the nation§!"
+TPT_ADD_NEUTRAL_IDEA_TT:0 "§HAdd a national spirit that keeps the nation §!non-aligned"
+TPT_BAN_NEUTRAL_IDEA_TT:0 "§HAdd a national spirit that removes §!non-aligned influence§H from the nation§!"
+
+
+14.7.19
+
+Removed:
+DST_ADD_EXPERIENCE:0 "§HAdd 50 Army Experience.§W"
+DST_REMOVE_EXPERIENCE:0 "§HSet Army Experience to 0.§W"
+
+Added:
+DST_ADD_ARMY_EXPERIENCE:0 "§HAdd 50 Army Experience.§W"
+DST_REMOVE_ARMY_EXPERIENCE:0 "§HSet Army Experience to 0.§W"
+DST_ADD_AIR_EXPERIENCE:0 "§HAdd 50 Air Experience.§W"
+DST_REMOVE_AIR_EXPERIENCE:0 "§HSet Air Experience to 0.§W"
+
+TPT_RS_SLOT:0 "Research Slots"
+TPT_REMOVE_RS_SLOT:0 "§HRemove one research slot.§!"
+TPT_ADD_RS_SLOT:0 "§HAdd one research slot.§!"
+TPT_SET_0_RS_SLOTS:0 "§HSet amount of research slots to 0.§!"
+TPT_SET_100_RS_SLOTS:0 "§HSet amount of research slots to 100.§!"
+TPT_RESET_RS_SLOTS:0 "§HReset amount of research slots.§!"
+
+
+Replaced:
+TPT_TAB_SWITCHER_TT:0 "Cycle through tabs using §gshift + x§!"
+
+
+15.7.19
+New:
+TPT_ENABLE_ELECTIONS:0 "§HEnable Elections§!"
+TPT_DISABLE_ELECTIONS:0 "§HDisable Elections§!"
+
+30.7.19
+New:
+TPT_DEC_RS_SPEED:0 "§HReduce research speed by §R5%§!.§!\n\nShift + click to reduce by 10."
+TPT_INC_RS_SPEED:0 "§HIncrease research speed by §G5%§!.§!\n\nShift + click to increase by 10."
+TPT_RS_SPEED:0 "Research Speed"
+tpt_rss_100:0 "Divine Guidance"
+tpt_rss_95:0 "Divine Guidance"
+tpt_rss_90:0 "Divine Guidance"
+tpt_rss_85:0 "Divine Guidance"
+tpt_rss_80:0 "Divine Guidance"
+tpt_rss_75:0 "Divine Guidance"
+tpt_rss_70:0 "Divine Guidance"
+tpt_rss_65:0 "Divine Guidance"
+tpt_rss_60:0 "Divine Guidance"
+tpt_rss_55:0 "Divine Guidance"
+tpt_rss_50:0 "Divine Guidance"
+tpt_rss_45:0 "Divine Guidance"
+tpt_rss_40:0 "Divine Guidance"
+tpt_rss_35:0 "Divine Guidance"
+tpt_rss_30:0 "Divine Guidance"
+tpt_rss_25:0 "Divine Guidance"
+tpt_rss_15:0 "Divine Guidance"
+tpt_rss_10:0 "Divine Guidance"
+tpt_rss_5:0 "Divine Guidance"
+tpt_rss5:0 "Divine Guidance"
+tpt_rss10:0 "Divine Guidance"
+tpt_rss15:0 "Divine Guidance"
+tpt_rss25:0 "Divine Guidance"
+tpt_rss30:0 "Divine Guidance"
+tpt_rss35:0 "Divine Guidance"
+tpt_rss40:0 "Divine Guidance"
+tpt_rss45:0 "Divine Guidance"
+tpt_rss50:0 "Divine Guidance"
+tpt_rss55:0 "Divine Guidance"
+tpt_rss60:0 "Divine Guidance"
+tpt_rss65:0 "Divine Guidance"
+tpt_rss70:0 "Divine Guidance"
+tpt_rss75:0 "Divine Guidance"
+tpt_rss80:0 "Divine Guidance"
+tpt_rss85:0 "Divine Guidance"
+tpt_rss90:0 "Divine Guidance"
+tpt_rss95:0 "Divine Guidance"
+tpt_rss100:0 "Divine Guidance"
+
+
+BST_SILO_ICON_TT:0 "§YAdd or remove §Mfuel silos§! in target states§!"
+BST_SLOT_ICON_TT:0 "§YAdd or remove §Mbuilding slots§! in target states§!"

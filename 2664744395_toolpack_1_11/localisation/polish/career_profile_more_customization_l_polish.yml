@@ -1,0 +1,229 @@
+﻿l_polish:
+# Career Profile
+ CAREER_PROFILE_INCOMPATIBLE_PLATFORM_MS:1 "Możesz oglądać tylko innych użytkowników konta Microsoft"
+ CAREER_PROFILE_INCOMPATIBLE_PLATFORM_STEAM:1 "Możesz oglądać tylko innych użytkowników Steam"
+ CAREER_PROFILE_INCOMPATIBLE_PLATFORM_GENERIC:0 "Na tej platformie nie możesz oglądać innych graczy."
+
+# Statistics Tab
+ CAREER_PROFILE_COMPARE_STATS_LABEL:0 "Porównanie z twoimi statystykami"
+ CAREER_PROFILE_DROPDOWN_ALL_MODES:0 "Wszystkie tryby"
+ CAREER_PROFILE_DROPDOWN_SINGLE_PLAYER:0 "Jeden gracz"
+ CAREER_PROFILE_DROPDOWN_MULTIPLAYER:0 "Wielu graczy"
+
+ CAREER_PROFILE_COMPARE_STATS_VALUE_TOOLTIP:0 "Masz: $VALUE$\nRóżnica: $DIFFERENCE$"
+ CAREER_PROFILE_COMPARE_HOURS:0 "$VALUE|Y*$ godz."
+ CAREER_PROFILE_COMPARE_DAYS:0 "$VALUE|Y*$ dni"
+ CAREER_PROFILE_COMPARE_MONTHS:0 "$VALUE|Y*$ mies."
+ CAREER_PROFILE_COMPARE_YEARS:0 "$VALUE|Y*$ l."
+ CAREER_PROFILE_COMPARE_HOURS_DIFFERENCE:0 "$VALUE|=+*$ godz."
+ CAREER_PROFILE_COMPARE_DAYS_DIFFERENCE:0 "$VALUE|=+*$ dni"
+ CAREER_PROFILE_COMPARE_MONTHS_DIFFERENCE:0 "$VALUE|=+*$ mies."
+ CAREER_PROFILE_COMPARE_YEARS_DIFFERENCE:0 "$VALUE|=+*$ l."
+ CAREER_PROFILE_COMPARE_STATS_VALUE_POSITIVE_TOOLTIP:0 "Masz: $VALUE|Y*$\nRóżnica: $DIFFERENCE|=+*$"
+ CAREER_PROFILE_COMPARE_STATS_VALUE_POSITIVE_TOOLTIP_NO_SI_PREFIX:0 "Masz: $VALUE|Y$\nRóżnica: $DIFFERENCE|=+$"
+ CAREER_PROFILE_COMPARE_STATS_VALUE_NEGATIVE_TOOLTIP:0 "Masz: $VALUE|Y*$\nRóżnica: $DIFFERENCE|=-*$"
+ CAREER_PROFILE_COMPARE_STATS_VALUE_PERCENTAGE_TOOLTIP:0 "Masz: $VALUE|Y1%$\nRóżnica: $DIFFERENCE|=+1%$"
+
+ CAREER_PROFILE_STAT_PLAIN_NUMBER:0 "$VALUE|*$"
+ CAREER_PROFILE_STAT_PLAIN_NUMBER_NO_SI_PREFIX:0 "$VALUE$"
+ CAREER_PROFILE_STAT_PLAIN_NUMBER_NO_SI_PREFIX_MORE_THAN:0 ">$VALUE|*$"
+ CAREER_PROFILE_STAT_PERCENTAGE:0 "$VALUE|1%$"
+
+ CAREER_PROFILE_BEFORE_1940:0 "Przed 1940 r."
+ CAREER_PROFILE_1940_TO_1944:0 "1940-1944 r."
+ CAREER_PROFILE_1945_AND_LATER:0 "1945 r. i później"
+
+# Awards tab
+ CAREER_PROFILE_PRODUCTION_IS_POWER_BRONZE:0 "§H50§! fabryk"
+ CAREER_PROFILE_PRODUCTION_IS_POWER_SILVER:0 "§H250§! fabryk"
+ CAREER_PROFILE_PRODUCTION_IS_POWER_GOLD:0 "§H500§! fabryk"
+ CAREER_PROFILE_QUALITY_OVER_QUANTITY_BRONZE:0 "Współczynnik §H1,5:1§!"
+ CAREER_PROFILE_QUALITY_OVER_QUANTITY_SILVER:0 "Współczynnik §H3:1§!"
+ CAREER_PROFILE_QUALITY_OVER_QUANTITY_GOLD:0 "Współczynnik §H5:1§!"
+
+# Profile Picture Tab
+ CAREER_PROFILE_BADGE_TAB_LABEL:0 "Odznaka"
+ CAREER_PROFILE_TOOLTIP_BACKGROUND_UNLOCKED:0 "Użyj jako tła profilu"
+ CAREER_PROFILE_TOOLTIP_BACKGROUND_LOCKED:0 "§b.§!\n\n\n£$ICON$£\n\n\n\n\n§b.§!\n$REQUIREMENT$" # The black . prevent the newlines from being trimmed
+ CAREER_PROFILE_PICTURES:0 "Zdjęcia profilowe"
+ CAREER_PROFILE_BACKGROUNDS:0 "Tła profilu"
+
+# Award Display
+ CAREER_PROFILE_EMPTY_MEDAL_SLOT_TOOLTIP:0 "Nie przyznano medalu."
+ CAREER_PROFILE_EMPTY_MEDAL_SLOT_BUTTON_TOOLTIP:0 "Nie przyznano medalu.\n\nKliknij, by wybrać medal, który ma być tutaj widoczny."
+ CAREER_PROFILE_EMPTY_MEDAL_PICKER_ITEM_TITLE:0 "Brak medalu"
+ CAREER_PROFILE_EMPTY_MEDAL_PICKER_ITEM_DESCRIPTION:0 "Wybierz, żeby zwolnić miejsce."
+
+ CAREER_PROFILE_EMPTY_RIBBON_SLOT_TOOLTIP:0 "Nie przyznano żadnego odznaczenia."
+ CAREER_PROFILE_EMPTY_RIBBON_SLOT_BUTTON_TOOLTIP:0 "Nie przyznano żadnego odznaczenia.\n\nKliknij, by wybrać odznaczenie, które ma być tutaj widoczne."
+ CAREER_PROFILE_EMPTY_RIBBON_PICKER_ITEM_TITLE:0 "Brak odznaczenia"
+ CAREER_PROFILE_EMPTY_RIBBON_PICKER_ITEM_DESCRIPTION:0 "Wybierz, żeby zwolnić miejsce."
+
+# Log in
+ LOGIN_DESCRIPTION_FRIENDS_BOLD:0 "Zaloguj się za pomocą konta Paradox, by przeglądać statystyki znajomych."
+ LOGIN_DESCRIPTION_CUSTOMIZATION_BOLD:0 "Zaloguj się za pomocą konta Paradox, by zmodyfikować swój profil."
+
+ CAREER_PROFILE_WRONG_ACCOUNT_POPUP_HEADER:0 "Nieprawidłowe konto PDX?"
+ CAREER_PROFILE_WRONG_ACCOUNT_POPUP_MESSAGE:0 "Zalogowano się do innego konta niż zwykle.\n Twoje dane, statystyki i nagrody nie będą śledzone"
+
+ CAREER_PROFILE_CLOUD_STORAGE_NOT_AVAILABLE_POPUP_HEADER:0 "Przechowywanie w chmurze niedostępne"
+ CAREER_PROFILE_CLOUD_STORAGE_NOT_AVAILABLE_POPUP_MESSAGE:0 "Twoje dane, statystyki i nagrody nie będą zamieszczane.\n Sprawdź swoją chmurę Steam."
+
+# Privacy switcher
+ CAREER_PROFILE_SWITCHER_PUBLIC:0 "Publiczny"
+ CAREER_PROFILE_SWITCHER_PRIVATE:0 "Prywatny"
+ CAREER_PROFILE_SWITCHER_FRIENDS:0 "Znajomi"
+ CAREER_PROFILE_VISIBILITY:0 "Widoczność profilu"
+
+# Chat
+ CHAT_ERROR_UNKNOWNSLASH:0 "Nieznane polecenie, wpisz '/help' albo '/?', żeby wyświetlić polecenia"
+ CHAT_ERROR_UNKNOWNCHANNELUSER:0 "Na obecnym kanale nie znaleziono użytkownika '$NAME$'"
+ CHAT_SLAP:0 "$FIRST$ atakuje wroga ($SECOND$) niewielką bombą jądrową"
+ CHAT_ERROR_SLAP_MISSINGARG:0 "Nieprawidłowa składnia, wymagana: /slap <username>"
+ CHAT_ERROR_ME_MISSINGARG:0 "Nieprawidłowa składnia, wymagana: /me <message>"
+ CHAT_ERROR_CREATE_MISSINGARG:0 "Nieprawidłowa składnia, wymagana: /create <channel name>"
+ CHAT_ERROR_INVITE_MISSINGARG:0 "Nieprawidłowa składnia, wymagana: /invite <username>"
+ CHAT_ERROR_INVITE_NOTOPERATOR:0 "Tylko twórca kanału może zapraszać użytkowników"
+ CHAT_ERROR_INVITE_ALREADYTHERE:0 "Użytkownik jest już na kanale"
+ CHAT_ERROR_KICK_MISSINGARG:0 "Nieprawidłowa składnia, wymagana: /kick <username>"
+ CHAT_ERROR_KICK_NOTOPERATOR:0 "Tylko twórca kanału może wyrzucać użytkowników"
+ CHAT_ERROR_KICK_NOTTHERE:0 "Użytkownika nie ma na kanale"
+ CHAT_ERROR_WHISPER_MISSINGARG:0 "Nieprawidłowa składnia, wymagana: /whisper <username> <message>"
+ CHAT_ERROR_REPLY_MISSINGARG:0 "Nieprawidłowa składnia, wymagana: /reply <message>"
+ CHAT_ERROR_REPLY_MISSINGUSER:0 "Brak połączonego użytkownika, któremu można odpowiedzieć"
+ CHAT_ROLL:0 "$USER$ rzuca k$DIE$, Komputer mówi '$NUMBER$'"
+ CHAT_YES:0 "Tak" # Used as $NUMBER$ in CHAT_ROLL if $DIE$ is 2
+ CHAT_NO:0 "Nie" # Used as $NUMBER$ in CHAT_ROLL if $DIE$ is 2
+ CHAT_BETWEEN_X_AND_Y:0 "Rozmowa między: $X$ i $Y$"
+ CHAT_YOUWEREBANNED:0 "$OP$ Wyrzuca cię z kanału $CHANNEL$"
+
+ # Medals
+ CAREER_PROFILE_MODERN_VERDUN:0 "Współczesne Verdun"
+ CAREER_PROFILE_MODERN_VERDUN_DESCRIPTION:0 "Ciężkie walki trwają nieprzerwanie przez określoną liczbę dni."
+ CAREER_PROFILE_NEVERMINE_ME_MEDAL:0 "Lubię stroić miny"
+ CAREER_PROFILE_NEVERMINE_ME_MEDAL_DESCRIPTION:1 "Zyskaj ponad 50% dominacji morskiej dzięki minom w określonej liczbie stref morskich."
+ CAREER_PROFILE_QUALITY_OVER_QUANTITY:0 "Jakość ważniejsza niż ilość"
+ CAREER_PROFILE_QUALITY_OVER_QUANTITY_DESCRIPTION:0 "Uzyskaj korzystną relację strat po zadaniu wrogowi strat wynoszących co najmniej milion ludzi."
+ CAREER_PROFILE_BRAINS_AND_BRUTE_FORCE_MEDAL:0 "Mądrość i brutalna siła"
+ CAREER_PROFILE_BRAINS_AND_BRUTE_FORCE_MEDAL_DESCRIPTION:0 "Złam określoną liczbę szyfrów."
+ CAREER_PROFILE_I_AM_INEVITABLE:0 "Jestem nieuniknionym"
+ CAREER_PROFILE_I_AM_INEVITABLE_DESCRIPTION:0 "Przez określoną liczbę tygodni zdobywaj co najmniej jedną prowincję tygodniowo."
+ CAREER_PROFILE_FINESSE_IS_FASTER:0 "Finezja to szybkość"
+ CAREER_PROFILE_FINESSE_IS_FASTER_DESCRIPTION:0 "Podczas łamania jednego szyfru, operacja „Zdobądź szyfr” odejmuje więcej niż pewną liczbę dni od czasu potrzebnego na rozszyfrowanie."
+ CAREER_PROFILE_CARGO_EMBARGO:0 "Embargo towarowe"
+ CAREER_PROFILE_CARGO_EMBARGO_DESCRIPTION:0 "Nałóż embargo na określoną liczbę krajów."
+ CAREER_PROFILE_PRODUCTION_IS_POWER:0 "Produkcja to siła"
+ CAREER_PROFILE_PRODUCTION_IS_POWER_DESCRIPTION:0 "Zbuduj określoną liczbę nowych fabryk cywilnych i wojskowych."
+ CAREER_PROFILE_ENGINEERING_BEHEMOTH_MEDAL:0 "Behemot inżynierii"
+ CAREER_PROFILE_ENGINEERING_BEHEMOTH_MEDAL_DESCRIPTION:1 "Zaprojektuj czołg o określonym współczynniku pancerza i wprowadź do służby co najmniej 1000 sztuk."
+ CAREER_PROFILE_CASTLES_IN_THE_AIR_MEDAL:0 "Podniebne zamki"
+ CAREER_PROFILE_CASTLES_IN_THE_AIR_MEDAL_DESCRIPTION:1 "Zaprojektuj samolot o określonym współczynniku obrony przeciwlotniczej i wprowadź do służby co najmniej pełne skrzydło (100 maszyn)."
+
+ # Ribbons
+ CAREER_PROFILE_SYNTHETIC_SECURITY:0 "Syntetyczne bezpieczeństwo"
+ CAREER_PROFILE_SYNTHETIC_SECURITY_DESCRIPTION:0 "Zyskaj ponad 30 jednostek gumy ze sztucznych źródeł (rafinerie materiałów syntetycznych)"
+ CAREER_PROFILE_SYNTHETIC_SECURITY_QUOTE:0 ""Gdyby kobiety w fabrykach przestały pracować na 20 minut, alianci przegraliby wojnę".\n\n- Marszałek polny i głównodowodzący Joseph Joffre, I wojna światowa."
+ CAREER_PROFILE_RUBBER_BARON:0 "Baron gumy"
+ CAREER_PROFILE_RUBBER_BARON_DESCRIPTION:0 "Posiadaj co najmniej 1000 jednostek gumy i gospodarkę zamkniętą."
+ CAREER_PROFILE_RUBBER_BARON_QUOTE:0 ""(...) zdobycie kluczowych regionów produkcji gumy na Dalekim Wschodzie w 1942 r. pozbawiło świat źródeł 90% produkcji naturalnej gumy".\n\n- The Southern Economic Journal, styczeń 1947 r."
+ CAREER_PROFILE_THE_TRUCK_WILL_ALWAYS_GET_THROUGH:0 "Ciężarówka zawsze przejedzie"
+ CAREER_PROFILE_THE_TRUCK_WILL_ALWAYS_GET_THROUGH_DESCRIPTION:0 "Ponad 5000 twoich ciężarówek z zaopatrzeniem musi dostarczyć zapasy twoim armiom."
+ CAREER_PROFILE_THE_TRUCK_WILL_ALWAYS_GET_THROUGH_QUOTE:0 ""Mówiono, że bombowiec zawsze się przebije. Ale na miejscu były już ciężarówki”.\n\n- autor nieznany"
+ CAREER_PROFILE_MARE_NOSTRUM:0 "Mare Nostrum"
+ CAREER_PROFILE_MARE_NOSTRUM_DESCRIPTION:0 "Zyskaj dominację na morzu w sześciu głównych regionach Morza Śródziemnego, z których co najmniej jeden jest sporny."
+ CAREER_PROFILE_MARE_NOSTRUM_QUOTE:0 ""Kiedy zgubiłem karabin, armia policzyła mi za to 85 dolarów. Właśnie dlatego w marynarce kapitan idzie na dno razem z okrętem".\n\n- Dick Gregory"
+ CAREER_PROFILE_BLITZ_THIS:0 "To jest szybkość..."
+ CAREER_PROFILE_BLITZ_THIS_DESCRIPTION:0 "Wybierz elastyczną obronę jako ulubioną strategię generała, marszałka polnego lub kraju."
+ CAREER_PROFILE_BLITZ_THIS_QUOTE:0 ""Naciągnij szeregi niczym łucznik napinający łuk, a potem puść".\n\n- Autor nieznany"
+ CAREER_PROFILE_SCORCHED_EARTH:0 "Spalona ziemia"
+ CAREER_PROFILE_SCORCHED_EARTH_DESCRIPTION:0 "Wysadzaj tory kolejowe, używając taktyki "spalonej ziemi", by spowolnić wrogie natarcie."
+ CAREER_PROFILE_SCORCHED_EARTH_QUOTE:0 ""(...) w ręce wroga nie może wpaść żadna lokomotywa ani wagon pasażerski, ani gram zboża albo choćby litr paliwa".\n\n- Józef Stalin, przemówienie radiowe, 3 lipca 1941 r."
+ CAREER_PROFILE_RULED_BY_FURNITURE:0 "Rządzeni przez meble!"
+ CAREER_PROFILE_RULED_BY_FURNITURE_DESCRIPTION:0 "Nie posiadaj ani jednej osoby ani grupy ludzi opisywanych jako kierujący twoim krajem."
+ CAREER_PROFILE_RULED_BY_FURNITURE_QUOTE:0 ""Martwienie się jest jak fotel bujany, masz dzięki niemu jakieś zajęcie, ale do niczego nie dochodzisz".\n\n– Stare angielskie przysłowie"
+ CAREER_PROFILE_THE_THOUSAND_YEAR_BOND:0 "Tysiącletnia więź"
+ CAREER_PROFILE_THE_THOUSAND_YEAR_BOND_DESCRIPTION:0 "Rozmieść sto batalionów kawalerii lub piechoty z wielbłądami."
+ CAREER_PROFILE_THE_THOUSAND_YEAR_BOND_QUOTE:0 ""Koń kawaleryjski musi mieć w sobie odrobinę szaleństwa, a jego jeździec powinien być kompletnym wariatem".\n\n- Steven Pressfield"
+ CAREER_PROFILE_ROCKETS_REIGN:0 "Rządy rakiet"
+ CAREER_PROFILE_ROCKETS_REIGN_DESCRIPTION:0 "Zbuduj ponad 10 ośrodków rakietowych."
+ CAREER_PROFILE_ROCKETS_REIGN_QUOTE:0 ""Rakieta działała idealnie, jednak wylądowała na niewłaściwej planecie".\n\n- Wernher Von Braun"
+ CAREER_PROFILE_STEEL_AT_HIGH_SPEED:0 "Rozpędzona stal"
+ CAREER_PROFILE_STEEL_AT_HIGH_SPEED_DESCRIPTION:0 "Rozmieść ponad 4000 czołgów o prędkości maksymalnej większej niż 12 km/h."
+ CAREER_PROFILE_STEEL_AT_HIGH_SPEED_QUOTE:0 ""Jeżeli wydaje ci się, że masz wszystko pod kontrolą, to za wolno jedziesz".\n\n- Mario Andretti"
+ CAREER_PROFILE_ORCHESTRA_OF_BOOM:0 "Grzmiąca orkiestra"
+ CAREER_PROFILE_ORCHESTRA_OF_BOOM_DESCRIPTION:0 "Rozmieść dywizję posiadającą co najmniej jeden batalion przeciwlotniczy, artylerii rakietowej i przeciwpancerny, wspierane przez kompanię sygnalizacyjną."
+ CAREER_PROFILE_ORCHESTRA_OF_BOOM_QUOTE:0 "\n"Prawdziwa kakofonia dźwięków zlewających się w jeden ogłuszający ryk, ryk pociągu w tunelu, wzmocniony po milionkroć".\n\n- Arnold D. Harvey"
+
+ # Statistics
+ CAREER_PROFILE_AIRSPACE_SUPERIORITY_RATING_LABEL:0 "Współczynnik przewagi w spornej przestrzeni powietrznej"
+ CAREER_PROFILE_CIVILIAN_FACTORIES_BUILT_LABEL:0 "Zbudowane fabryki cywilne"
+ CAREER_PROFILE_MILITARY_FACTORIES_BUILT_LABEL:0 "Zbudowane fabryki wojskowe"
+ CAREER_PROFILE_DOCKYARDS_BUILT_LABEL:0 "Zbudowane stocznie"
+ CAREER_PROFILE_ROCKET_SITES_BUILT_LABEL:0 "Zbudowane ośrodki rakietowe"
+ CAREER_PROFILE_LAND_DOCTRINE:0 "Najczęściej używana doktryna lądowa"
+ CAREER_PROFILE_MOBILE_WARFARE_XP_LABEL:0 "Wojna mobilna"
+ CAREER_PROFILE_SUPERIOR_FIREPOWER_XP_LABEL:0 "Przewaga ogniowa"
+ CAREER_PROFILE_GRAND_BATTLEPLAN_XP_LABEL:0 "Plan wielkiej bitwy"
+ CAREER_PROFILE_MASS_ASSAULT_XP_LABEL:0 "Zmasowany atak"
+ CAREER_PROFILE_NAVAL_DOCTRINE:0 "Najczęściej używana doktryna morska"
+ CAREER_PROFILE_FLEET_IN_BEING_XP_LABEL:0 "Flota stacjonarna"
+ CAREER_PROFILE_TRADE_INTERDICTION_XP_LABEL:0 "Ataki na konwoje"
+ CAREER_PROFILE_BASE_STRIKE_XP_LABEL:0 "Uderzenia na bazy"
+ CAREER_PROFILE_AIR_DOCTRINE:0 "Najczęściej używana doktryna powietrzna"
+ CAREER_PROFILE_STRATEGIC_DESTRUCTION_XP_LABEL:0 "Bombardowanie strategiczne"
+ CAREER_PROFILE_BATTLEFIELD_SUPPORT_XP_LABEL:0 "Wsparcie sił naziemnych"
+ CAREER_PROFILE_OPERATIONAL_INTEGRITY_XP_LABEL:0 "Skuteczność operacyjna"
+ CAREER_PROFILE_MOST_USED_COMBAT_WIDTH_LABEL:0 "Najczęściej używana rozpiętość bojowa"
+
+ CAREER_PROFILE_MILITARY_PRODUCTION:0 "Produkcja zbrojeniowa"
+ CAREER_PROFILE_MILITARY_PRODUCTION_OTHER_LABEL:0 "Broń i wyposażenie"
+ CAREER_PROFILE_MILITARY_PRODUCTION_LAND_VEHICLES_LABEL:1 "Pojazdy lądowe"
+ CAREER_PROFILE_MILITARY_PRODUCTION_AIRCRAFT_LABEL:0 "Samoloty"
+
+ CAREER_PROFILE_AIR_PRODUCTION:0 "Produkcja samolotów"
+ CAREER_PROFILE_FIGHTER_LABEL:0 "Myśliwce"
+ CAREER_PROFILE_CAS_LABEL:0 "Samoloty bliskiego wsparcia"
+ CAREER_PROFILE_TACTICAL_BOMBER_LABEL:0 "Bombowce taktyczne"
+ CAREER_PROFILE_NAVAL_BOMBER_LABEL:0 "Bombowce morskie"
+ CAREER_PROFILE_STRATEGIC_BOMBER_LABEL:0 "Bombowce strategiczne"
+ CAREER_PROFILE_OTHER_LABEL:0 "Inne"
+
+ CAREER_PROFILE_TANK_PRODUCTION:0 "Produkcja czołgów"
+ CAREER_PROFILE_LIGHT_TANK_LABEL:0 "Czołgi lekkie"
+ CAREER_PROFILE_MEDIUM_TANK_LABEL:0 "Czołgi średnie"
+ CAREER_PROFILE_HEAVY_TANK_LABEL:0 "Czołgi ciężkie"
+ CAREER_PROFILE_SUPER_HEAVY_TANK_LABEL:1 "Czołgi superciężkie"
+ CAREER_PROFILE_MODERN_TANK_LABEL:0 "Nowoczesne czołgi"
+
+ CAREER_PROFILE_NAVAL_PRODUCTION:0 "Produkcja okrętów"
+ CAREER_PROFILE_SUBMARINE_LABEL:0 "Okręty podwodne"
+ CAREER_PROFILE_SCREENING_LABEL:0 "Okręty osłonowe"
+ CAREER_PROFILE_CAPITAL_SHIP_LABEL:0 "Ciężkie krążowniki i pancerniki"
+ CAREER_PROFILE_CARRIERS_LABEL:0 "Lotniskowce"
+
+# Tooltips
+ CAREER_PROFILE_TRIGGER_DEPLOYED_TANKS_WITH_ARMOR_RATING:0 "Następująca liczba czołgów ze współczynnikiem pancerza $TOOLTIP_VALUE|0H$: $VALUE|0H$"
+ CAREER_PROFILE_TRIGGER_DEPLOYED_AIRPLANES_WITH_AIR_DEFENSE:0 "Następująca liczba czołgów ze współczynnikiem obrony powietrznej $TOOLTIP_VALUE|0H$: $VALUE|0H$"
+ CAREER_PROFILE_TRIGGER_MINED_SEA_REGIONS:0 "Obszary morskie: $VALUE|0H$"
+ CAREER_PROFILE_TRIGGER_DECRYPTED_CIPHERS:0 "Szyfry: $VALUE|0H$"
+ CAREER_PROFILE_TRIGGER_NATIONS:0 "Kraje: $VALUE|0H$"
+ CAREER_PROFILE_TRIGGER_DAYS:0 "Dni: $VALUE|0H$"
+ CAREER_PROFILE_TRIGGER_PROVINCE_GAINING_WEEKS:0 "Tygodnie: $VALUE|0H$"
+ CAREER_PROFILE_TRIGGER_DECRYPTING_DAYS_SAVED:0 "Zaoszczędzone dni: $VALUE|0H$"
+
+# Backup Flavor Texts
+ CAREER_PROFILE_BACKUP_QUOTE_31:0 ""...wielu z nas wydawało się, że nigdy nie słyszeli bardziej upragnionego dźwięku jak głęboki ryk i trzaski dochodzące z naszych tyłów".\n\n- Fritz Kreisler"
+ CAREER_PROFILE_BACKUP_QUOTE_32:0 ""Prawo! A co mnie obchodzi prawo? Czyżbym nie miał władzy?"\n\n- Cornelius Vanderbilt"
+
+# Batch 2
+ CAREER_PROFILE_GAME_TIME_LABEL:0 "Czas w grze"
+
+ CAREER_PROFILE_STAT_YEARS_MONTHS:0 "$YEARS$ l., $MONTHS$ mies."
+ CAREER_PROFILE_STAT_YEARS_MONTHS_MORE:0 "$YEARS$ l., $MONTHS$ mies. więcej"
+ CAREER_PROFILE_STAT_YEARS_MONTHS_LESS:0 "$YEARS$ l., $MONTHS$ mies. mniej"
+
+# Countries
+# Countries in Profile Picture Tab, original loc key in comment
+ CAREER_PROFILE_COUNTRY_ETH:0 "Etiopia" # ETH_neutrality
+ CAREER_PROFILE_COUNTRY_ITA:0 "Włochy" # ITA_fascism
+ CAREER_PROFILE_COUNTRY_SWI:0 "Szwajcaria" # SWI_democratic
