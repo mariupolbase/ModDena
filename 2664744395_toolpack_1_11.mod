@@ -6,7 +6,7 @@ tags={
 	"Map"
 	"Technologies"
 }
-name="Toolpack 1.11"
+name="ModDENA(DEV)"
 supported_version="1.12.*"
-path="C:/Users/y-fil/OneDrive/Документы/Paradox Interactive/Hearts of Iron IV/mod/2664744395_toolpack_1_11"
+path="mod/toolpack 1.11"
 remote_file_id="2664744395"
