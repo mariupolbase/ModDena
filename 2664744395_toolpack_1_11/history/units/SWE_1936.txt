@@ -97,6 +97,14 @@ units = {
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
+
+division = {
+		name = "Norra Militärområde"
+		location = 11148 # Osterund
+		division_template = "Militärområde"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
 	# Western Military District
 	division = { # "III. Arméfördelning"
 		division_name = {
