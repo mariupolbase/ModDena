@@ -4,7 +4,7 @@
  alert_hostile_troops_instant:0 "§RВражеские войска§!"
  alert_hostile_troops_delayed:2 "На обороняемой территории находятся вражеские войска."
  alert_naval_invasion_instant:0 "§RМорское вторжение§!"
- alert_naval_invasion_delayed:0 "§TВражеские войска вторгаются с моря в эти регионы:§!"
+ alert_naval_invasion_delayed:0 "§TВражеские войска вторгаются с моря в в эти регионы:§!"
  alert_naval_invasion_delayed_state:0 "$STATE|H$"
  alert_dangerous_naval_invasion_instant:0 "§RОпасная высадка с моря§!"
  alert_dangerous_naval_invasion_delayed:0 "§TВражеские войска сейчас вторгаются с моря в эти регионы:§!"
