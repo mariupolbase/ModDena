@@ -8,5 +8,5 @@ tags={
 }
 name="ModDENA(DEV)"
 supported_version="1.12.*"
-path="mod/toolpack 1.11"
+path="C:/Users/y-fil/OneDrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/ModDena"
 remote_file_id="2664744395"
